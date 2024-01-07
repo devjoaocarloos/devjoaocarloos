@@ -6,7 +6,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="" src="https://github-readme-stats.vercel.app/api?username=devjoaocarlos&theme=dracula&hide=issues&show_icons=true&rank_icon=github&show="/>
   </a>
-  <br>
   <!--Languages-->
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaocarlos&layout=compact&theme=dracula"/>
