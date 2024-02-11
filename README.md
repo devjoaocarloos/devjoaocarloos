@@ -4,11 +4,11 @@
 <div>
 <!--Github Stats-->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="" src="https://github-readme-stats.netlify.app/api?username=devjoaocarloos&theme=dracula&hide=issues&show_icons=true&rank_icon=github&show="/>
+    <img height="" src="https://github-readme-stats.vercel.app/api?username=devjoaocarlos&theme=dracula&hide=issues&show_icons=true&rank_icon=github&show="/>
   </a>
   <!--Languages-->
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="" src="https://github-readme-stats.netlify.app/api/top-langs/?username=devjoaocarloos&layout=compact&theme=dracula"/>
+    <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaocarlos&layout=compact&theme=dracula"/>
   </a>
 </div>
 
